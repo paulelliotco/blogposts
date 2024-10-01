@@ -17,6 +17,6 @@ I'm Paul Elliot and with over 5 years of experience in artificial intelligence a
 
 For the latest updates, interactive discussions, and exclusive content:
 
-- Visit my website (https://paulelliot.podia.com/)
-- Follow me on Twitter (https://x.com/paulelliotco)
-- Request a Brainstorm (https://6a25k2eerv8.typeform.com/to/VamGm3b6)
+- Visit my website(https://paulelliot.podia.com/)
+- Follow me on Twitter(https://x.com/paulelliotco)
+- Request a Brainstorm(https://6a25k2eerv8.typeform.com/to/VamGm3b6)
